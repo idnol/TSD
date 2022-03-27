@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="HostPro">
+    <serverData>
+      <paths name="HostPro">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmphtml.fillsites.net" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/tmphtml.fillsites.net/wp-admin" />
+            <excludedPath path="/tmphtml.fillsites.net/wp-content/plugins" />
+            <excludedPath path="/tmphtml.fillsites.net/wp-content/uploads" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-admin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/uploads" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
